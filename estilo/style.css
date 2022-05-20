@@ -84,7 +84,7 @@ section.imagem > p {
 
 
 section#img1{
- background-image: url(/imagens/products-nike-wallpaper-preview.jpg);
+ background-image: url(../imagens/products-nike-wallpaper-preview.jpg);
  background-position: left center;
  
  
@@ -108,7 +108,3 @@ footer{
     padding: 10px;
 }
 
-
-#tperson1{
-    
-}
