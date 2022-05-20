@@ -25,7 +25,7 @@ html,body{
 
 header{
     background-color: black;
-    color: white;
+    color: rgb(48, 109, 46);
     text-align: center;    
 }
 
@@ -51,8 +51,8 @@ header a,footer a:hover{
 }
 
 section{
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-top: 15vh;
+    padding-bottom: 15vh;
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--font3);
@@ -84,16 +84,16 @@ section.imagem > p {
 
 
 section#img1{
- background-image: url(../imagens/background001.jpg);
- background-position: right center;
+ background-image: url(../imagens/products-nike-wallpaper-preview.jpg);
+ background-position: left center;
  
  
 }
 
 
 section#img2{
-    background-image: url(../imagens/background002.jpg);
-    background-position: right center;
+    background-image: url(/imagens/nike-air-dior.jpg);
+    background-position: center center;
    
    
 }
@@ -107,3 +107,4 @@ footer{
     text-align: center;
     padding: 10px;
 }
+
